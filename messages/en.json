@@ -1,0 +1,115 @@
+{
+  "Header": {
+    "home": "Home",
+    "projects": "Projects",
+    "showcase": "Showcase",
+    "contact": "Contact Me",
+    "blog": "Blog",
+    "en": "EN",
+    "jp": "JP"
+  },
+  "Intro": {
+    "pageTitle": "Ronit Yadav's Portfolio",
+    "greeting": "Hello,",
+    "about": "I am a passionate Full-Stack Developer dedicated to building robust, high-performance, and visually stunning web applications. With expertise spanning modern front-end frameworks and solid back-end architecture, I bridge the gap between design and technology. I focus on writing clean, scalable code and delivering exceptional, pixel-perfect user experiences.",
+    "sendMessage": "Send me a message",
+    "iam": "I'm",
+    "name": "Ronit Yadav",
+    "developer": "a developer",
+    "programmer": "a programmer",
+    "engineer": "an engineer",
+    "learner": "an avid learner",
+    "resume": "Check my resume"
+  },
+  "TechnologyAndPassion": {
+    "techTitle": "Technology",
+    "techText1": "helps us create better user experiences",
+    "techText2": "optimize performance, and ensure security",
+    "techText3": "implement the latest web standards, best practices, and design trends",
+    "techText4": "simplify and speed up the development process",
+    "passionTitle": "Passion and Human Touch",
+    "passionText1": "help us empathize with our users, understand their needs, and deliver value",
+    "passionText2": "communicate effectively, collaborate productively, and build trust",
+    "passionText3": "add personality, emotion, and creativity to our work",
+    "passionText4": "stay motivated, curious, and enthusiastic"
+  },
+  "Showcase": {
+    "photo": "Photo: ",
+    "slideTitle": "Japan's Attractions",
+    "flowersTitle": "Beautiful Flowers",
+    "fishTitle": "Playful Fish",
+    "pageTitle": "Showcase",
+    "pageInfo": "Most of the projects on this page are built using modern, highly customizable interactive components. They demonstrate my ability to implement and utilize innovative, visually stunning, and functionally robust elements in web applications.",
+    "topFooter1": "Made using the [react-next-parallax](https://www.npmjs.com/package/react-next-parallax) NPM package.",
+    "topFooter2": "Images by [Yuliya Pauliukevich](https://www.vecteezy.com/members/klyaksun) on [vecteezy.com](https://www.vecteezy.com/).",
+    "japanSliderFooter": "Made using the [swiper](https://www.npmjs.com/package/swiper), [swiper-mods](https://www.npmjs.com/package/swiper-mods), and [react-next-tilt](https://www.npmjs.com/package/react-next-tilt) NPM packages.",
+    "fishFooter1": "Made using the [react-flip-tilt](https://www.npmjs.com/package/react-flip-tilt) and [react-next-parallax](https://www.npmjs.com/package/react-next-parallax) NPM packages.",
+    "fishFooter2": "Images by [Yuliya Pauliukevich](https://www.vecteezy.com/members/klyaksun) on [vecteezy.com](https://www.vecteezy.com/).",
+    "flowersFooter1": "Made using the [react-flip-tilt](https://www.npmjs.com/package/react-flip-tilt) and [react-next-tilt](https://www.npmjs.com/package/react-next-tilt) NPM packages.",
+    "flowersFooter2": "Images by [Yuliya Pauliukevich](https://www.vecteezy.com/members/klyaksun) on [vecteezy.com](https://www.vecteezy.com/).",
+    "parallaxLine1": "Never stop learning",
+    "parallaxLine2": "Never give up"
+  },
+  "Projects": {
+    "pageTitle": "Projects",
+    "liveDemo": "Live Demo",
+    "sourceCode": "Source Code",
+    "backendSourceCode": "Back-end Source Code",
+    "design": "Design"
+  },
+  "MoreProjects": {
+    "title": "More Projects",
+    "github": "I have many more projects on my GitHub account. make sure to check it out.",
+    "instagram": "I share my latest updates, design explorations, and coding highlights on my Instagram. Follow along!"
+  },
+  "Contact": {
+    "pageTitle": "Contact Me",
+    "formTitle": "Send me a message",
+    "placeholderName": "Your Name",
+    "placeholderEmail": "Email Address",
+    "placeholderMessage": "Message",
+    "errorNameEmpty": "Please enter your name",
+    "errorNameShort": "Name should be at least 2 characters long",
+    "errorEmailEmpty": "Please enter your email",
+    "errorEmailInvalid": "Please enter a valid email address",
+    "errorMessageEmpty": "Please enter a message",
+    "errorCaptcha": "Please solve the captcha",
+    "buttonSend": "Send Message",
+    "from": "from:",
+    "email": "email:",
+    "withLove": "with love",
+    "sending": "Sending ...",
+    "sent": "Sent!",
+    "error": "Error!"
+  },
+  "Social": {
+    "otherWaysToContactMe": "Other ways to contact me",
+    "githubTitle": "GitHub",
+    "twitterTitle": "X",
+    "emailTitle": "Email",
+    "github": "I'm always active on GitHub. You can check my projects, contribute, or follow my coding journey.",
+    "twitter": "Whether you have a question or just want to say hello, feel free to send me a message on X (Twitter).",
+    "email": "You can also contact me directly by sending me an email."
+  },
+  "Blog": {
+    "featuredArticles": "Featured Articles",
+    "popularArticles": "Popular Articles",
+    "published": "Published",
+    "minutesRead": " minutes read",
+    "readTheFullArticle": "Read the full article"
+  },
+  "Footer": {
+    "navigation": "Site Navigation",
+    "sns": "Social Media",
+    "tech": "Built with",
+    "my": "Ronit Yadav's",
+    "portfolio": "Portfolio"
+  },
+  "Error": {
+    "notFound": "Not Found",
+    "message": "Error: No route matches"
+  },
+  "Other": {
+    "backToTop": "Back to Top"
+  }
+}

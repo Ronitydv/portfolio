@@ -1,0 +1,73 @@
+[
+  {
+    "text": "HTML5",
+    "image": "html5-original.svg"
+  },
+  {
+    "text": "CSS3",
+    "image": "css3-original.svg"
+  },
+  {
+    "text": "JavaScript",
+    "image": "javascript-original.svg"
+  },
+  {
+    "text": "TypeScript",
+    "image": "typescript-original.svg"
+  },
+  {
+    "text": "Tailwind",
+    "image": "tailwindcss-plain.svg"
+  },
+  {
+    "text": "React.js",
+    "image": "react-original.svg"
+  },
+  {
+    "text": "Next.js",
+    "image": "nextjs-original.svg",
+    "imageDark": "nextjs-original-dark.svg"
+  },
+  {
+    "text": "Firebase",
+    "image": "firebase-plain.svg"
+  },
+  {
+    "text": "Node.js",
+    "image": "nodejs-original.svg"
+  },
+  {
+    "text": "Express",
+    "image": "express-original.svg",
+    "imageDark": "express-original-dark.svg"
+  },
+  {
+    "text": "Git",
+    "image": "git-original.svg"
+  },
+  {
+    "text": "GitHub",
+    "image": "github.svg",
+    "imageDark": "github-dark.svg"
+  },
+  {
+    "text": "VS Code",
+    "image": "vscode-original.svg"
+  },
+  {
+    "text": "MongoDB",
+    "image": "mongodb-original.svg"
+  },
+  {
+    "text": "Claude",
+    "image": "claude-original.svg"
+  },
+  {
+    "text": "After Effects",
+    "image": "aftereffects-original.svg"
+  },
+  {
+    "text": "CapCut",
+    "image": "capcut-original.svg"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "title": "GitHub",
+    "link": "https://github.com/Ronitydv",
+    "icon": "/images/icons/github.svg",
+    "iconDark": "/images/icons/github-dark.svg"
+  },
+  {
+    "title": "Twitter",
+    "link": "https://x.com/RONIT_ydv",
+    "icon": "/images/icons/x.svg",
+    "iconDark": "/images/icons/x-dark.svg",
+    "size": 0.85
+  },
+  {
+    "title": "Instagram",
+    "link": "https://instagram.com/ronit.rip",
+    "icon": "/images/icons/instagram-original.svg"
+  },
+  {
+    "title": "Dev.to",
+    "link": "https://dev.to/ronitydv",
+    "icon": "/images/icons/devto.svg"
+  },
+  {
+    "title": "Email",
+    "link": "mailto:rao.yadav.ronit@gmail.com",
+    "icon": "/images/icons/email.svg",
+    "size": 1.25
+  }
+]

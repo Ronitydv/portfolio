@@ -1,0 +1,65 @@
+[
+  {
+    "title": {
+      "en": "Rockland Pipes",
+      "ja": "Rockland Pipes"
+    },
+    "description": {
+      "en": "Rockland Pipes is a professional web platform showcasing high-quality pipes and smoking accessories. Designed for an elegant presentation, it provides a seamless catalog browsing experience.",
+      "ja": "Rockland Pipesは、高品質なパイプや喫煙具を紹介するプロフェッショナルなWebプラットフォームです。洗練されたプレゼンテーション向けにデザインされており、シームレスなカタログ閲覧体験を提供します。"
+    },
+    "points": {
+      "en": [
+        "Beautiful product showcase and structured categories",
+        "Highly responsive UI/UX across devices",
+        "Performance optimized with clean code structure"
+      ],
+      "ja": [
+        "美しい製品ショーケースと構造化されたカテゴリー",
+        "デバイス間で非常にレスポンシブなUI/UX",
+        "クリーンなコード構造によるパフォーマンス最適化"
+      ]
+    },
+    "tags": [
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "imageDesktop": "/images/projects/rockland-desktop.webp",
+    "imageMobile": "/images/projects/rockland-mobile.webp",
+    "demoLink": "https://rocklandpipes.com"
+  },
+  {
+    "title": {
+      "en": "School App",
+      "ja": "スクールアプリ"
+    },
+    "description": {
+      "en": "A modern school management and interactive web application designed to help educational institutions manage students, classes, and schedules effectively.",
+      "ja": "教育機関が生徒、クラス、スケジュールを効果的に管理できるように設計された、モダンな学校管理およびインタラクティブWebアプリケーションです。"
+    },
+    "points": {
+      "en": [
+        "Student and schedule management dashboards",
+        "Interactive features for students and teachers",
+        "Responsive user interface with smooth transitions"
+      ],
+      "ja": [
+        "生徒とスケジュールの管理用ダッシュボード",
+        "生徒と教師のためのインタラクティブな機能",
+        "スムーズな遷移を伴うレスポンシブなユーザーインターフェイス"
+      ]
+    },
+    "tags": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Tailwind CSS",
+      "React"
+    ],
+    "imageDesktop": "/images/projects/school-desktop.webp",
+    "imageMobile": "/images/projects/school-mobile.webp",
+    "demoLink": "https://ronitydv.github.io/school-app/",
+    "sourceLink": "https://github.com/Ronitydv/school-app"
+  }
+]
