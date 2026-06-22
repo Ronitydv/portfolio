@@ -13,7 +13,7 @@ This is my personal portfolio website. It features an original design, fully res
 
 ## Links
 
-- Live Website: https://ronitydv.github.io
+- Live Website: https://ronityadav.xyz
 
 ## Built with
 
@@ -166,7 +166,7 @@ Here are some screenshots of the website:
 
 Ronit Yadav
 
-- Portfolio - [ronitydv.github.io](https://ronitydv.github.io)
+- Portfolio - [ronitydv.github.io](https://ronityadav.xyz)
 - GitHub - [Ronitydv](https://github.com/Ronitydv)
 - Twitter - [@RONIT_ydv](https://x.com/RONIT_ydv)
 - Dev.to - [@ronitydv](https://dev.to/ronitydv)
